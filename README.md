@@ -19,3 +19,11 @@
 
 ### クラウドにおける共同責任
 [https://learn.microsoft.com/ja-jp/azure/security/fundamentals/shared-responsibility](https://learn.microsoft.com/ja-jp/azure/security/fundamentals/shared-responsibility)
+
+
+
+# Azure Network
+[https://github.com/Azure/fta-japan/tree/main/FTALive/Networking](https://github.com/Azure/fta-japan/tree/main/FTALive/Networking)
+
+# Azure Monitoring
+[https://github.com/Azure/fta-japan/tree/main/FTALive/Monitoring](https://github.com/Azure/fta-japan/tree/main/FTALive/Monitoring)
